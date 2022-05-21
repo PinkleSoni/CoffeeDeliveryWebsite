@@ -1,3 +1,3 @@
 # CoffeeDeliveryWebsite 
 
-Basic website created using Html, CSS, bootstrap, Javascript.
+Basic website created using frontend technologies
